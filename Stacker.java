@@ -42,7 +42,7 @@ class Stack{
     }
 }
 
-class OOP2 {
+class Stacker {
     public static void main(String args[]){
         Stack d = new Stack();
         d.display();
